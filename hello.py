@@ -1,2 +1,1 @@
-comment
-author
+hello,comment and author.
